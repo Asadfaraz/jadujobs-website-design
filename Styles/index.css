@@ -260,3 +260,28 @@ footer p {
   font-family: "Lobster", cursive;
   font-weight: 100;
 }
+
+@media screen and (max-width: 900px) {
+  /* Styles */
+  #mid-sec-heading h2 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  /* Styles */
+  #mid-sec-heading h2 {
+    font-size: 25px;
+  }
+
+  /* .hero-text h2 {
+    font-size: 30px;
+    color: green;
+  } */
+}
+@media screen and (max-width: 521px) {
+  /* Styles */
+  #mid-sec-heading h2 {
+    font-size: 20px;
+  }
+}
